@@ -5,6 +5,7 @@ Everything I need for DevConf 2024 in a single repository. 🤓
 ## Conference Details
 
 ⌚ When: 9 May 2024, 07h30
+
 🌍 Where: Century City Conference Center, Cape Town
 
 ## My Schedule
